@@ -1,0 +1,42 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    color: blueviolet;
+    font-size: 25px;
+    background-color: ghostwhite;
+}
+.btn1{
+    color: cadetblue;
+    background-color: azure;
+    height:35px;
+    width: 60px;
+    font-size: 20px ;
+}
+.btn2{
+    color: cadetblue;
+    background-color: azure;
+    height:35px;
+    width: 60px;
+    font-size: 20px ;
+}
+.btn3{
+    color: cadetblue;
+    background-color: azure;
+    height:35px;
+    width: 60px;
+    font-size: 20px ;
+}
+.btn4{
+    color: cadetblue;
+    background-color: azure;
+    height:35px;
+    width: 60px;
+    font-size: 20px ;
+}
+video{
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
